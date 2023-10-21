@@ -1,0 +1,13 @@
+.services{
+
+    text-align: center;
+} 
+.services {
+
+    float: left;
+    width: 20%;
+    background: teal;
+}
+.clearfix{
+clear:left ;
+}
